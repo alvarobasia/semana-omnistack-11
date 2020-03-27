@@ -9,7 +9,7 @@ ___
 
 # Instrutor:
 **![Diego](https://avatars1.githubusercontent.com/u/2254731?s=100&u=dc1a4fd280cdc3c6977bacf57cbfeb8ba0917f27&v=4)\
-[Diego Fernandes - CTO da Rockeatseat](https://github.com/diego3g)**
+[Diego Fernandes - CTO da Rocketseat](https://github.com/diego3g)**
 
 # Tecnologias utilizadas:
 * Backend - [Node JS](https://nodejs.org/en/)
