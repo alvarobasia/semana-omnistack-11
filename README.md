@@ -4,7 +4,7 @@
 ![Semana oministack 11 logo](https://rocketseat.com.br/static/images/week/logo.svg)
 ___
 
-**Projeto da semana Omnistack 11, o qual foi proposto uma aplicação web e mobile que ajudará ONGs a encontrar financiadores a suas causas, tendo em vista que são organizações sem fins lucrativos, assim esse app irá fazer a conexão entre o financiador que pretende ajudar a causa e a ONG que precisa do dinheiro com o objetivo de realiza-la.**
+**Projeto da semana Omnistack 11, o qual foi proposto uma aplicação web e mobile que ajudará ONGs a encontrar financiadores para suas causas, tendo em vista que são organizações sem fins lucrativos, assim esse app irá fazer a conexão entre o financiador que pretende ajudar a causa e a ONG que precisa do dinheiro com o objetivo de realiza-la.**
 ___
 
 # Instrutor:
