@@ -1,5 +1,7 @@
 # Be The Hero - Semana Omnistack-11
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0cc1aa3e8c1a46328ff0dc897b4c4897)](https://app.codacy.com/manual/alvarobasia/semana-omnistack-11?utm_source=github.com&utm_medium=referral&utm_content=alvarobasia/semana-omnistack-11&utm_campaign=Badge_Grade_Dashboard)
+
 ![Be the Hero logo](https://raw.githubusercontent.com/alvarobasia/semana-omnistack-11/master/frontend/src/assets/logo.svg?token=AKIS25CSVRTCWGLJNDT4JWC6Q4Y4I&sanitize=true)
 ![Semana oministack 11 logo](https://rocketseat.com.br/static/images/week/logo.svg)
 ___
