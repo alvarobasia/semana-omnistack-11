@@ -1,11 +1,9 @@
 # Be The Hero - Semana Omnistack-11
 ![Be the Hero logo](https://raw.githubusercontent.com/alvarobasia/semana-omnistack-11/master/frontend/src/assets/logo.svg?token=AKIS25CSVRTCWGLJNDT4JWC6Q4Y4I&sanitize=true)
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0cc1aa3e8c1a46328ff0dc897b4c4897)](https://app.codacy.com/manual/alvarobasia/semana-omnistack-11?utm_source=github.com&utm_medium=referral&utm_content=alvarobasia/semana-omnistack-11&utm_campaign=Badge_Grade_Dashboard)
-![Dependencies](https://david-dm.org/alvarobasia/semana-omnistack-11.svg)
-[![devDependencies Status](https://david-dm.org/dwyl/hapi-auth-jwt2/dev-status.png)](https://david-dm.org/dwyl/hapi-auth-jwt2?type=dev)
-[![GitHub stars](https://img.shields.io/github/stars/alvarobasia/semana-omnistack-11)](https://github.com/alvarobasia/semana-omnistack-11/stargazers)
 ![Semana oministack 11 logo](https://rocketseat.com.br/static/images/week/logo.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0cc1aa3e8c1a46328ff0dc897b4c4897)](https://app.codacy.com/manual/alvarobasia/semana-omnistack-11?utm_source=github.com&utm_medium=referral&utm_content=alvarobasia/semana-omnistack-11&utm_campaign=Badge_Grade_Dashboard)
+[![GitHub stars](https://img.shields.io/github/stars/alvarobasia/semana-omnistack-11)](https://github.com/alvarobasia/semana-omnistack-11/stargazers)
+
 ___
 
 **Projeto da semana Omnistack 11, o qual foi proposto uma aplicação web e mobile que ajudará ONGs a encontrar financiadores para suas causas, tendo em vista que são organizações sem fins lucrativos, assim esse app irá fazer a conexão entre o financiador que pretende ajudar a causa e a ONG que precisa do dinheiro com o objetivo de realiza-la.**
